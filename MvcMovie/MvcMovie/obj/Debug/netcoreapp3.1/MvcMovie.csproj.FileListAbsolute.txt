@@ -16,8 +16,6 @@ D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.MvcApplica
 D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cache
 D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cs
 D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.Manifest.cache
-D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\staticwebassets\MvcMovie.StaticWebAssets.xml
-D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\scopedcss\bundle\MvcMovie.styles.css
 D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.input.cache
 D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.TagHelpers.output.cache
 D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorCoreGenerate.cache
@@ -154,3 +152,4 @@ D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\
 D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Details.cshtml.g.cs
 D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
 D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
+D:\Cursos\MovieMVC\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
